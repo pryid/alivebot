@@ -98,4 +98,4 @@ pip install telethon
 
 ## Лицензия
 
-Этот проект лицензируется под GNU Affero General Public License v3.0. Подробности смотрите в файле [LICENSE](LICENSE).
+Этот проект лицензируется под GNU Affero General Public License v3.0. Подробности смотрите в файле [LICENSE](LICENSE.md).
