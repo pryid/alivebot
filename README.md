@@ -21,7 +21,7 @@ AliveBot - это скрипт, который поддерживает акти
 1. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/alivebot.git
+    git clone https://github.com/pryid/alivebot.git
     cd alivebot
     ```
 
